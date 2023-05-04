@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Esportes</name>
+   <tag></tag>
+   <elementGuidId>e0119537-3f55-4589-a4ef-e9328f83a9dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/div/div/div[4]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>02298fb7-4f69-4610-93e4-0f15e1ad2158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex px-2 py-3 rounded bg-backgroundoverlay h-14 my-2 cursor-pointer</value>
+      <webElementGuid>7929e628-d778-43e8-8f5b-192bc1efac47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+      Esportes
+     </value>
+      <webElementGuid>7b4cec23-a329-401c-aaa0-3abb18328e78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;relative flex flex-col h-screen-custom align-items-stretch&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;fixed bottom-0 left-0 right-0 z-40 bg-black bg-opacity-50 top-14&quot;]/div[@class=&quot;container fixed left-0 right-0 z-20 h-full mx-auto top-14&quot;]/div[@class=&quot;flex flex-col h-full overflow-y-scroll shadow w-72 bg-backgroundoverlay&quot;]/div[4]/div[@class=&quot;flex px-2 py-3 rounded bg-backgroundoverlay h-14 my-2 cursor-pointer&quot;]</value>
+      <webElementGuid>68c3f7ac-79bd-4d48-8a16-7a714792f27c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div/div/div[4]/div[2]</value>
+      <webElementGuid>46c1639e-4c01-4a3f-9ca5-9a8533546fe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notícias'])[1]/following::div[4]</value>
+      <webElementGuid>6a8c00c1-be2c-48e6-96a4-f43d8be95156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favoritos'])[1]/following::div[9]</value>
+      <webElementGuid>f5e0e5fd-c317-4d6b-8615-036ca59db73a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entretenimento'])[1]/preceding::div[8]</value>
+      <webElementGuid>ebe9be36-6d9b-4391-919b-7453b46c834a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]</value>
+      <webElementGuid>38619ee8-a156-4a54-ab77-174b99ffbdc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 
+      Esportes
+     ' or . = ' 
+      Esportes
+     ')]</value>
+      <webElementGuid>102114bf-3217-4e66-b7f9-b463331b1eb8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

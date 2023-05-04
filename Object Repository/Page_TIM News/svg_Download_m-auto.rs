@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Download_m-auto</name>
+   <tag></tag>
+   <elementGuidId>ccbd3024-540c-42e7-b84e-0a804021c59e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.m-auto</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>17c67b2f-c815-42f5-be04-6d8de494934b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>eb71e42c-9061-486b-9235-8c9976b0bc33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>8bc2b649-49d8-4e56-9198-5a364eb60aff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 100 100</value>
+      <webElementGuid>474c516c-2522-4b0a-8ea4-4208a6a5757c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-auto</value>
+      <webElementGuid>b0351fb6-ac4b-4f97-8c54-18e3af4ac282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SiteHeader&quot;)/div[@class=&quot;grid w-full grid-cols-3 gap-0 desktop:hidden&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;my-auto ml-1 cursor-pointer&quot;]/div[@class=&quot;flex p-0 bg-transparent border-0 cursor-pointer&quot;]/svg[@class=&quot;m-auto&quot;]</value>
+      <webElementGuid>c4603625-fa76-48cf-a46e-b5f8ff5ac082</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>a3123aae-ddfd-4c98-8717-09279dfeaf63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agora não'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>b57b31fe-f788-495f-bc3b-5d8bfaeb4c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acesse Sportito'])[1]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>74104cfd-0af4-45ce-9193-7fc81078931a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fazer login'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>562441a1-5251-42aa-91bb-dbc28558067b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
