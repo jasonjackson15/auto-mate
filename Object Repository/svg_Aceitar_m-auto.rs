@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Aceitar_m-auto</name>
+   <tag></tag>
+   <elementGuidId>a33c6239-b9dc-46d4-b62b-1b63f527ea5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.select-none.m-auto > svg.m-auto</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Aceitar'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>fb960105-3ca7-4220-8a10-4ddbb05eb7cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>e95b8071-9bc3-4a9d-9d31-36ed3d99999e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>86cf5d4b-285e-42b9-b374-9ed0a6702d78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>ca23efad-1ca2-44e1-a284-e8b17ef72b76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 18.355 17.199</value>
+      <webElementGuid>e00f7974-8a67-4c13-a1ac-c249af9d5c71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-auto</value>
+      <webElementGuid>d0e5e654-acc5-4d2e-9212-5f2f402b5adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SiteHeader&quot;)/div[@class=&quot;grid w-full grid-cols-3 gap-0 desktop:hidden&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex scale-90 w-[30px] ml-auto mr-1 border-white my-auto no-underline cursor-pointer hover:text-lighthighlight text-headinglight&quot;]/div[@class=&quot;flex select-none m-auto&quot;]/svg[@class=&quot;m-auto&quot;]</value>
+      <webElementGuid>49a70ce9-b94a-4f3f-b1c6-87566391500f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aceitar'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>59c0a604-e521-4b82-9670-68fe3a8710b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='. Ao continuar navegando, você concorda com estas condições.'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>f039c366-182c-4e20-8608-9a11f67d4304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acesse Sportito'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>332b9e87-da8f-4bd4-a6fe-83ac7bfe8307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fazer login'])[1]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>5985e5e5-fc60-4c21-9a5f-f787b67f4804</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
