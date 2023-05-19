@@ -19,7 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://usahockeytv.com/')
+WebUI.navigateToUrl('https://timnews.com.br/')
 
-WebUI.click(findTestObject('Object Repository/usahockeytv/a_Buy'))
+WebUI.click(findTestObject('Object Repository/a_ESPORTES'))
+
+WebUI.click(findTestObject('Object Repository/span_Monza'))
+
+WebUI.click(findTestObject('Object Repository/div_Atualizar'))
+
+WebUI.click(findTestObject('Object Repository/span_A trajetria do bisneto de Mussolini no_81489d'))
 

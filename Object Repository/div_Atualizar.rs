@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Atualizar</name>
+   <tag></tag>
+   <elementGuidId>7d0413c9-c7ee-47a6-9d04-13410de8254a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.px-2.py-1.ml-auto.text-white.rounded.shadow.cursor-pointer.select-none.bg-header > div.m-auto</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='sportevents']/section/section/section/div/section/section/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>32eb9187-745c-47c2-8f3c-a581a9c58d9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-auto</value>
+      <webElementGuid>7f61c9a7-37cd-4129-8007-bbf2593793eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Atualizar</value>
+      <webElementGuid>0f2aebaa-9911-4049-8746-146f0ba9beb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sportevents&quot;)/section[@class=&quot;mb-4&quot;]/section[@class=&quot;mt-4 mb-20 desktop:mt-20&quot;]/section[1]/div[@class=&quot;mb-12&quot;]/section[1]/section[@class=&quot;mt-4 mb-10&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex ml-auto&quot;]/div[@class=&quot;flex px-2 py-1 ml-auto text-white rounded shadow cursor-pointer select-none bg-header&quot;]/div[@class=&quot;m-auto&quot;]</value>
+      <webElementGuid>f5b8ca90-379e-4429-8917-85f3ff4d0d86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='sportevents']/section/section/section/div/section/section/div/div/div/div</value>
+      <webElementGuid>385a551d-5bbc-45df-8244-fff244fa63b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resultados'])[1]/following::div[3]</value>
+      <webElementGuid>f0a8cbbb-8b4f-4a87-bdd1-cb7881c8cf6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Placar ao vivo'])[1]/following::div[6]</value>
+      <webElementGuid>c3a43157-c77c-4dc7-97ca-db9db7c8283f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sassuolo'])[1]/preceding::div[4]</value>
+      <webElementGuid>e6ed611e-232b-4585-bdba-86c780c135c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Atualizar']/parent::*</value>
+      <webElementGuid>af10de08-130a-413b-a3c4-059177a2c3a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div</value>
+      <webElementGuid>c50f9077-7f7e-425b-a53b-0be78029b17e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Atualizar' or . = 'Atualizar')]</value>
+      <webElementGuid>a786faf8-aaef-4854-86e7-01973f2af99d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
