@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TIM News</name>
+   <name>USAHockeytv</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>e2fa02ce-d423-46b5-a708-b45be31d1762</testSuiteGuid>
+   <testSuiteGuid>aa1cb603-c167-459f-a0de-22d9c0d9fe1d</testSuiteGuid>
    <testCaseLink>
-      <guid>b40e1ab3-f69a-4e18-8afc-600167e3fc56</guid>
+      <guid>e13dd1f7-d677-4a8c-8c7d-9b92551fd153</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/article click</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>a567f8e1-fd85-45bf-9d8c-bef18849a2ea</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/header navigate</testCaseId>
+      <testCaseId>Test Cases/buy page</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

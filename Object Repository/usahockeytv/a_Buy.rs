@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Buy</name>
+   <tag></tag>
+   <elementGuidId>115ba99b-3881-412b-8363-4b0f38fcb880</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[2]/div[3]/div/div[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.pricing-action.d-flex.flex-column > a.btn.btn-block.btn-lg.buy-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>44fb14bc-a815-4c53-81d2-877d09656e0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/upcoming?package_id=37</value>
+      <webElementGuid>614e2e8a-7909-4920-90c0-605d21e36853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-block btn-lg buy-button</value>
+      <webElementGuid>948b40c5-d9c8-4cb8-86ec-8b8989ef47c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Buy </value>
+      <webElementGuid>cf7021d4-7d80-494f-947b-092d2bbfc13e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;main-content padding-top&quot;]/div[@class=&quot;container-wrapper main-container my-5&quot;]/div[@class=&quot;package&quot;]/div[@class=&quot;pricing-box&quot;]/div[@class=&quot;pricing-action d-flex flex-column&quot;]/a[@class=&quot;btn btn-block btn-lg buy-button&quot;]</value>
+      <webElementGuid>180ff54f-9fb4-469e-a433-25b4a665c094</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[2]/div[3]/div/div[4]/a</value>
+      <webElementGuid>6e6702bf-b228-4d44-9d0f-532443768b62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Buy')])[3]</value>
+      <webElementGuid>ebd35a49-3ec2-47d5-85a2-3ef8809899ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[3]/following::a[1]</value>
+      <webElementGuid>e5aef8a3-2b79-4483-9553-1fa3264e48bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[3]/following::a[1]</value>
+      <webElementGuid>3f686b48-aca9-48f8-8ce0-dfc8f9b76a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/preceding::a[1]</value>
+      <webElementGuid>fc0df5d6-abfc-482c-b4b5-111d8b405f77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::a[1]</value>
+      <webElementGuid>5a527a38-3e84-4d01-8415-28c4480f6b76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/upcoming?package_id=37')]</value>
+      <webElementGuid>6d7135f4-4221-4eae-ae5f-af72dbe24969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[4]/a</value>
+      <webElementGuid>9e98a43a-cf6c-44c8-8343-42657f59b271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/upcoming?package_id=37' and (text() = ' Buy ' or . = ' Buy ')]</value>
+      <webElementGuid>4c58ac41-ab5f-403f-904c-4b454aa02994</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

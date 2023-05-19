@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Monza</name>
+   <tag></tag>
+   <elementGuidId>14e82e25-3b5f-4a93-87c1-1a03c3984bda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='FavoritesFeed']/section/div[3]/div/section/div[2]/div/section/a/div/div[2]/div/div[2]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5fec0f8e-bc03-4991-b42f-3d162f13662f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>my-auto</value>
+      <webElementGuid>2c3726da-adae-4b18-92f5-a417e3aad98f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monza </value>
+      <webElementGuid>00a1c171-4e93-40f4-b247-3ad790c75942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FavoritesFeed&quot;)/section[@class=&quot;desktop:grid desktop:grid-cols-12 mobile:hidden desktop:gap-4&quot;]/div[@class=&quot;mobile:hidden desktop:row-span-6 desktop:col-span-3 desktop:col-start-10&quot;]/div[@class=&quot;container relative mx-auto&quot;]/section[@class=&quot;py-4 mobile:m-2&quot;]/div[@class=&quot;flex flex-wrap justify-center bg-[#0935B90D] pt-2 mobile:pb-4&quot;]/div[@class=&quot;justify-center desktop:w-[260px] desktop:h-[175px] mobile:w-full m-2&quot;]/section[@class=&quot;cursor-pointer text-textnew mt-2 desktop:w-[260px] desktop:h-[140px] bg-[#FFFFFF] rounded&quot;]/a[1]/div[1]/div[@class=&quot;font-['Inter'] px-2 pb-1.5&quot;]/div[@class=&quot;w-full text-sm&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex w-full&quot;]/span[@class=&quot;my-auto&quot;]</value>
+      <webElementGuid>d4cf283b-ddd3-4efc-8157-d521334a7917</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='FavoritesFeed']/section/div[3]/div/section/div[2]/div/section/a/div/div[2]/div/div[2]/div[2]/span</value>
+      <webElementGuid>4bbb91bd-9061-4641-a432-fc1ae3d30a4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sassuolo'])[1]/following::span[1]</value>
+      <webElementGuid>94151210-982f-413d-9cb2-9a442e25763f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('MAPEI Stadium - Città del Tricolore (Reggio nell', &quot;'&quot;, 'Emilia)')])[1]/preceding::span[1]</value>
+      <webElementGuid>3a31dd29-82dc-4298-af09-a5450b312403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campeonato Espanhol'])[1]/preceding::span[1]</value>
+      <webElementGuid>6e08c738-4989-4623-9492-cc25ab411727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Monza']/parent::*</value>
+      <webElementGuid>7366a6fe-e205-43a8-9277-f645ca202d01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/span</value>
+      <webElementGuid>ae34b8a7-3a4c-4a42-88ac-abe5e154f94d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Monza ' or . = 'Monza ')]</value>
+      <webElementGuid>fa1c5a56-483e-433c-8c57-1c71af6a2bc9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
