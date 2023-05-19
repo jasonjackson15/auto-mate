@@ -6,12 +6,12 @@
    <elementGuidId>115ba99b-3881-412b-8363-4b0f38fcb880</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.btn.btn-outline-danger.btn-block.btn-lg.buy-button</value>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[2]/div[3]/div/div[4]/a</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div[2]/div[2]/div[2]/div/div[4]/a</value>
+         <key>CSS</key>
+         <value>div.pricing-action.d-flex.flex-column > a.btn.btn-block.btn-lg.buy-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,118 +22,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>16243e78-896f-4407-81a8-c0221c9fd2c4</webElementGuid>
+      <webElementGuid>44fb14bc-a815-4c53-81d2-877d09656e0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/buy?subscription_id=16</value>
-      <webElementGuid>acfb1fbb-f840-4f39-98a2-8ddd2548456a</webElementGuid>
+      <value>/upcoming?package_id=37</value>
+      <webElementGuid>614e2e8a-7909-4920-90c0-605d21e36853</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-outline-danger btn-block btn-lg buy-button</value>
-      <webElementGuid>324fe4da-643f-46d0-b86d-00460a006bfb</webElementGuid>
+      <value>btn btn-block btn-lg buy-button</value>
+      <webElementGuid>948b40c5-d9c8-4cb8-86ec-8b8989ef47c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Buy </value>
-      <webElementGuid>d3ce1c39-167d-4da6-863a-8f4b71196968</webElementGuid>
+      <value> Buy </value>
+      <webElementGuid>cf7021d4-7d80-494f-947b-092d2bbfc13e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;main-page-wrapper main-content&quot;]/div[@class=&quot;container-fluid home-container home&quot;]/div[@class=&quot;main-packages-wrapper main-container mb-5&quot;]/div[@class=&quot;pricing-box d-flex w-100&quot;]/div[@class=&quot;pricing-action&quot;]/a[@class=&quot;btn btn-outline-danger btn-block btn-lg buy-button&quot;]</value>
-      <webElementGuid>055179a8-9132-4d73-aa7f-27f6edc5a9d5</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;main-content padding-top&quot;]/div[@class=&quot;container-wrapper main-container my-5&quot;]/div[@class=&quot;package&quot;]/div[@class=&quot;pricing-box&quot;]/div[@class=&quot;pricing-action d-flex flex-column&quot;]/a[@class=&quot;btn btn-block btn-lg buy-button&quot;]</value>
+      <webElementGuid>180ff54f-9fb4-469e-a433-25b4a665c094</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div[2]/div[2]/div[2]/div/div[4]/a</value>
-      <webElementGuid>75f00edc-3cb8-4a2d-8d8b-b6087297b312</webElementGuid>
+      <value>//div[@id='app']/div[2]/div[2]/div[3]/div/div[4]/a</value>
+      <webElementGuid>6e6702bf-b228-4d44-9d0f-532443768b62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Buy')]</value>
-      <webElementGuid>ce51d74a-14d1-4f39-a7b9-21291747472a</webElementGuid>
+      <value>(//a[contains(text(),'Buy')])[3]</value>
+      <webElementGuid>ebd35a49-3ec2-47d5-85a2-3ef8809899ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[1]/following::a[1]</value>
-      <webElementGuid>08762eb6-46e6-4042-b8bf-0b3231bff8c9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[3]/following::a[1]</value>
+      <webElementGuid>e5aef8a3-2b79-4483-9553-1fa3264e48bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[1]/following::a[1]</value>
-      <webElementGuid>c8cc6f5f-307c-4f7c-b70d-0c4dd9d57293</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[3]/following::a[1]</value>
+      <webElementGuid>3f686b48-aca9-48f8-8ce0-dfc8f9b76a4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[2]/preceding::a[1]</value>
-      <webElementGuid>3053002a-e71d-4279-bbd9-d0eed2791ca1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/preceding::a[1]</value>
+      <webElementGuid>fc0df5d6-abfc-482c-b4b5-111d8b405f77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[2]/preceding::a[1]</value>
-      <webElementGuid>cd15d4c4-fdb7-421e-9e71-622f99d995a8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Buy']/parent::*</value>
-      <webElementGuid>78158b2f-5649-49e3-ad3f-008dbffb89ce</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::a[1]</value>
+      <webElementGuid>5a527a38-3e84-4d01-8415-28c4480f6b76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/buy?subscription_id=16')]</value>
-      <webElementGuid>1ec4b086-529e-4535-864e-ff2a90edbd54</webElementGuid>
+      <value>//a[contains(@href, '/upcoming?package_id=37')]</value>
+      <webElementGuid>6d7135f4-4221-4eae-ae5f-af72dbe24969</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/a</value>
-      <webElementGuid>0f1769b1-376a-4cf5-b281-75cf568c01c9</webElementGuid>
+      <value>//div[3]/div/div[4]/a</value>
+      <webElementGuid>9e98a43a-cf6c-44c8-8343-42657f59b271</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/buy?subscription_id=16' and (text() = 'Buy ' or . = 'Buy ')]</value>
-      <webElementGuid>3c475609-e9c2-4f34-8667-c9e58b08ee76</webElementGuid>
+      <value>//a[@href = '/upcoming?package_id=37' and (text() = ' Buy ' or . = ' Buy ')]</value>
+      <webElementGuid>4c58ac41-ab5f-403f-904c-4b454aa02994</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

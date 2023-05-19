@@ -6,12 +6,12 @@
    <elementGuidId>7f4d6943-9e39-4d75-af04-b4253a4bb694</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.nav-link</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='navbarText']/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>da7ed2e0-e2e8-41fd-8717-e88868e622b8</webElementGuid>
+      <webElementGuid>63b89932-6cfd-4555-8cc5-f09643286f3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/packages</value>
-      <webElementGuid>23006c83-b3fb-4a82-b52d-1a87a6b0341e</webElementGuid>
+      <webElementGuid>a371219f-4f2b-4a57-a725-c4ff41c1f7b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link</value>
-      <webElementGuid>3ebbc01c-584f-4f5e-88d3-afadc834b6eb</webElementGuid>
+      <webElementGuid>d7bf0be0-72b2-4582-a554-a04c67ede9ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Passes </value>
-      <webElementGuid>a9171ebc-bf80-4fb2-9a4e-e42c70d2af3e</webElementGuid>
+      <webElementGuid>883fd6ea-4c8b-4ebc-9078-b91371c50b07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarText&quot;)/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>c767e55f-59d7-413e-90e1-f8f79b06a0e0</webElementGuid>
+      <webElementGuid>f9421176-f2e6-4b43-bff8-a152d2de68aa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarText']/ul/li[2]/a</value>
-      <webElementGuid>2c37d55c-faa6-4645-a876-664d66ace836</webElementGuid>
+      <webElementGuid>5d075c75-a17b-46bf-bd74-095638c58aae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Passes')]</value>
-      <webElementGuid>c63d707f-dc17-4cb9-9c10-2516e22f0c65</webElementGuid>
+      <webElementGuid>47a4362d-4271-4921-b136-03049d4166e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='On-Demand'])[1]/following::a[1]</value>
-      <webElementGuid>3e248b44-4760-4b5a-af77-471f9c2d3059</webElementGuid>
+      <webElementGuid>fad674f1-327c-462c-80cd-f96905cf2285</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Upcoming'])[1]/following::a[2]</value>
-      <webElementGuid>4df3786b-8d44-45b2-9a8a-3b9f36613635</webElementGuid>
+      <webElementGuid>500cbb3d-055f-4559-bfe3-2f746a87de6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Clips'])[1]/preceding::a[1]</value>
-      <webElementGuid>29cc2080-0ea9-4ede-b2a7-45ca655dc724</webElementGuid>
+      <webElementGuid>1a22f11a-9ef4-4de8-a6d8-6a05f12a7d53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Support'])[1]/preceding::a[2]</value>
-      <webElementGuid>d7e877c4-bf4c-44ef-a6e1-931d1940d377</webElementGuid>
+      <webElementGuid>4e520bdb-9ce0-455e-ba19-1c84cea6392c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Passes']/parent::*</value>
-      <webElementGuid>0275b7b7-7db2-4935-874c-fa1aecc67cd7</webElementGuid>
+      <webElementGuid>821e6136-8021-465b-bcd4-c6204903bd9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/packages')]</value>
-      <webElementGuid>99896216-2035-4a57-a019-93fd60a3fc94</webElementGuid>
+      <webElementGuid>15e27180-d1f8-450b-a060-af1183bd9429</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a</value>
-      <webElementGuid>e1f989c4-d8ca-4526-9cab-60504c87ca28</webElementGuid>
+      <webElementGuid>7907297e-1c36-4c45-8d22-0a212288affc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/packages' and (text() = ' Passes ' or . = ' Passes ')]</value>
-      <webElementGuid>124e606a-427e-46d9-978b-e4ee1b29cd43</webElementGuid>
+      <webElementGuid>e8b532b6-f1a4-42cd-9708-8ef234b33443</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
