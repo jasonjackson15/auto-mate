@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Foi pior um passeio pelo passado de Hir_acf3ad</name>
+   <tag></tag>
+   <elementGuidId>30874e20-32f7-4193-ac90-a154cefa257e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/main/div/div[3]/div/section[5]/div/div[3]/div[4]/a/article/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>57efea4f-6cf5-41d8-8dc1-0f08a50f86b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col h-full mobile:w-full desktop:max-w-[225px] desktop:mr-4 mobile:border-b mobile:border-gray-300</value>
+      <webElementGuid>8ddf3852-614b-493f-8f79-4bfbcbfb2b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>'Foi pior': um passeio pelo passado de Hiroshima com realidade virtual  AFP Brasil</value>
+      <webElementGuid>5295d5c0-d49f-4d84-b94c-83dedebcf9d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;relative flex flex-col h-screen-custom align-items-stretch&quot;]/main[@class=&quot;container flex-grow min-h-screen-custom mx-auto  desktop:mt-[5.9rem] mobile:mt-14&quot;]/div[@class=&quot;container relative mx-auto&quot;]/div[@class=&quot;gap-4 desktop:grid desktop:grid-cols-12&quot;]/div[@class=&quot;flex flex-col col-span-3 col-start-10&quot;]/section[5]/div[1]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;desktop:border-b desktop:border-gray-300&quot;]/a[1]/article[@class=&quot;desktop:w-full mobile:h-[159px] desktop:h-[147px]&quot;]/div[@class=&quot;flex flex-row h-full mobile:px-4&quot;]/div[@class=&quot;flex flex-col h-full mobile:w-full desktop:max-w-[225px] desktop:mr-4 mobile:border-b mobile:border-gray-300&quot;]</value>
+      <webElementGuid>1ef8fe2d-6819-4059-bdeb-624a2b47c7b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/main/div/div[3]/div/section[5]/div/div[3]/div[4]/a/article/div/div</value>
+      <webElementGuid>53efa503-424c-4953-8cda-b6c6902c09b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[29]/following::div[3]</value>
+      <webElementGuid>6a5727dc-3cc9-4811-beb5-143c28d72c60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IG'])[12]/following::div[9]</value>
+      <webElementGuid>8701e67b-9df9-4b29-a0f8-a2615acc7553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[5]/div/div[3]/div[4]/a/article/div/div</value>
+      <webElementGuid>078c6fca-0688-4896-8b28-e615c29352d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;'&quot; , &quot;Foi pior&quot; , &quot;'&quot; , &quot;: um passeio pelo passado de Hiroshima com realidade virtual  AFP Brasil&quot;) or . = concat(&quot;'&quot; , &quot;Foi pior&quot; , &quot;'&quot; , &quot;: um passeio pelo passado de Hiroshima com realidade virtual  AFP Brasil&quot;))]</value>
+      <webElementGuid>35cb3e72-129e-4f40-8330-b77815c8013a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
