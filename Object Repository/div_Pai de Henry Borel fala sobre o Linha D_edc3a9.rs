@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pai de Henry Borel fala sobre o Linha D_edc3a9</name>
+   <tag></tag>
+   <elementGuidId>5b019d54-0979-4791-83b2-3da23f70a1c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='thresholdChecker']/div[2]/div/a/article/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>641d35d6-3c6e-4e89-8aac-6bea3266121f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-15 font-medium mobile:font-semibold text-['Inter'] mt-4 mobile:pr-4 tracking-normal overflow-hidden text-ellipsis h-20 text-textnew</value>
+      <webElementGuid>d246f2bd-9a99-493d-bcfe-633802d95d44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pai de Henry Borel fala sobre o Linha Direta: 'É um pedido de Justiça'</value>
+      <webElementGuid>7dfcaa6c-9e75-4214-838e-99ae0f1d8626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;thresholdChecker&quot;)/div[@class=&quot;px-1 mb-12 desktop:grid desktop:grid-cols-4 desktop:gap-4 mb-5&quot;]/div[@class=&quot;my-2&quot;]/a[@class=&quot;desktop:hidden&quot;]/article[@class=&quot;desktop:w-full mobile:h-[159px] desktop:h-[147px]&quot;]/div[@class=&quot;flex flex-row h-full mobile:px-4&quot;]/div[@class=&quot;flex flex-col h-full mobile:w-full desktop:max-w-[225px] desktop:mr-4 mobile:border-b mobile:border-gray-300&quot;]/div[@class=&quot;text-15 font-medium mobile:font-semibold text-['Inter'] mt-4 mobile:pr-4 tracking-normal overflow-hidden text-ellipsis h-20 text-textnew&quot;]</value>
+      <webElementGuid>38059eee-791c-462a-a7c6-a68103a3ed83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='thresholdChecker']/div[2]/div/a/article/div/div/div</value>
+      <webElementGuid>4bb7fa3a-81b2-44f7-a094-eaecc4ca1ff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[1]/following::div[3]</value>
+      <webElementGuid>00195858-0f5d-4edc-bd10-c239a0aa0915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aventuras Na História'])[1]/following::div[7]</value>
+      <webElementGuid>ba3a0972-6686-4396-9489-0446a21f07bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aventuras Na História'])[2]/preceding::div[2]</value>
+      <webElementGuid>e00ef28a-8f9f-448d-91c5-eb7431cf5df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/article/div/div/div</value>
+      <webElementGuid>985f5c22-dbfa-42df-9272-f28cbd8143c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Pai de Henry Borel fala sobre o Linha Direta: &quot; , &quot;'&quot; , &quot;É um pedido de Justiça&quot; , &quot;'&quot;) or . = concat(&quot;Pai de Henry Borel fala sobre o Linha Direta: &quot; , &quot;'&quot; , &quot;É um pedido de Justiça&quot; , &quot;'&quot;))]</value>
+      <webElementGuid>d66cac90-bf72-4591-afe6-8e1becc5f085</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
