@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dallagnol permanecer na Cmara at que Co_d9bdd0</name>
+   <tag></tag>
+   <elementGuidId>062a1cc2-0f17-4a78-b7e8-716f4b3c746a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/main/div/div[3]/div/section/div/div[3]/div[3]/a/article/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>64d13971-fee3-45e5-9c5c-b8728bf87620</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-15 font-medium mobile:font-semibold text-['Inter'] mt-4 mobile:pr-4 tracking-normal overflow-hidden text-ellipsis h-20 text-textnew</value>
+      <webElementGuid>35a3903b-4026-40c2-b6aa-9ffd5ef81759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dallagnol permanecerá na Câmara até que Corregedoria analise cassação</value>
+      <webElementGuid>c8fe78a3-11a7-4608-b009-c44a7526c1a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;relative flex flex-col h-screen-custom align-items-stretch&quot;]/main[@class=&quot;container flex-grow min-h-screen-custom mx-auto  desktop:mt-[5.9rem] mobile:mt-14&quot;]/div[@class=&quot;container relative mx-auto&quot;]/div[@class=&quot;gap-4 desktop:grid desktop:grid-cols-12&quot;]/div[@class=&quot;flex flex-col col-span-3 col-start-10&quot;]/section[1]/div[1]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;desktop:border-b desktop:border-gray-300&quot;]/a[1]/article[@class=&quot;desktop:w-full mobile:h-[159px] desktop:h-[147px]&quot;]/div[@class=&quot;flex flex-row h-full mobile:px-4&quot;]/div[@class=&quot;flex flex-col h-full mobile:w-full desktop:max-w-[225px] desktop:mr-4 mobile:border-b mobile:border-gray-300&quot;]/div[@class=&quot;text-15 font-medium mobile:font-semibold text-['Inter'] mt-4 mobile:pr-4 tracking-normal overflow-hidden text-ellipsis h-20 text-textnew&quot;]</value>
+      <webElementGuid>d70da071-ea78-44a4-9fa8-64464c19e391</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/main/div/div[3]/div/section/div/div[3]/div[3]/a/article/div/div/div</value>
+      <webElementGuid>9dd22800-d5f5-4001-9f0b-00cf6ba55097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[8]/following::div[4]</value>
+      <webElementGuid>e868f5f4-0444-47d6-be3e-ab9f064ce166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IG'])[3]/following::div[10]</value>
+      <webElementGuid>2b124e9b-9793-4799-b373-385c13e8d19a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IG'])[4]/preceding::div[2]</value>
+      <webElementGuid>7e5f6502-2848-45c9-b90c-6bef56bedc5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/article/div/div/div</value>
+      <webElementGuid>28ae4293-f330-4fbd-9350-6c45f83b9460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dallagnol permanecerá na Câmara até que Corregedoria analise cassação' or . = 'Dallagnol permanecerá na Câmara até que Corregedoria analise cassação')]</value>
+      <webElementGuid>6650d91a-7df2-4470-afa5-e8a5aa33a5fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

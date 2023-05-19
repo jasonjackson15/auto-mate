@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='FavoritesFeed']/section/div[4]/div[2]/div[2]/article/a/div/div/img</value>
+         <value>//div[@id='__layout']/div/main/div/div[3]/div/div[3]/div/div[2]/article[2]/a/div/div/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>831a7910-b35d-43b0-9acf-26613935f9c1</webElementGuid>
+      <webElementGuid>934f1229-78a3-4b1c-ad5f-33881c9c5847</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://timnews.com.br/system/images/photos/15562810/original/open-uri20230519-18-2qfmd6?1684508195</value>
-      <webElementGuid>5587c6b2-c71c-4609-be3a-97a270e8ef1a</webElementGuid>
+      <value>https://timnews.com.br/system/images/photos/15562844/original/open-uri20230519-19-kculj6?1684509124</value>
+      <webElementGuid>457f5106-65f8-415f-ac94-34151eb4f78d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
-      <value>https://timnews.com.br/system/images/photos/15562810/original/open-uri20230519-18-2qfmd6?1684508195</value>
-      <webElementGuid>3edb8a13-d823-498b-abab-3299080f2b95</webElementGuid>
+      <value>https://timnews.com.br/system/images/photos/15562844/original/open-uri20230519-19-kculj6?1684509124</value>
+      <webElementGuid>d77d15c3-a274-4755-ae9b-0b9b123809d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>height</name>
       <type>Main</type>
       <value>640px</value>
-      <webElementGuid>ff4e9b35-96ef-43ae-bfa4-99dc454cab10</webElementGuid>
+      <webElementGuid>ffeb14d0-c357-4c02-a54d-bc769291d92b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>width</name>
       <type>Main</type>
       <value>480px</value>
-      <webElementGuid>5b49a803-1e00-4aa1-b3c7-de3b0ee62360</webElementGuid>
+      <webElementGuid>4fff703d-2c44-4ccc-93f9-386944cbeb58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>a49f2005-f13f-4735-a471-1c9ad4f6e767</webElementGuid>
+      <webElementGuid>deccdd0c-1f33-41d6-9278-104a59e09fc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,46 +70,46 @@
       <name>class</name>
       <type>Main</type>
       <value>h-full m-auto rounded imageBanner</value>
-      <webElementGuid>2e4f01c7-eca5-4cd4-8a51-01bedd7f6758</webElementGuid>
+      <webElementGuid>ad54213d-5357-48f7-9499-f83d598d3c3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;FavoritesFeed&quot;)/section[@class=&quot;desktop:grid desktop:grid-cols-12 mobile:hidden desktop:gap-4&quot;]/div[@class=&quot;flex flex-col col-span-8&quot;]/div[@class=&quot;desktop:grid desktop:grid-cols-4 desktop:gap-4&quot;]/div[@class=&quot;mr-auto&quot;]/article[@class=&quot;w-[200px] h-[300px] border-b border-gray-300 mb-4 mr-auto mobile:hidden&quot;]/a[1]/div[1]/div[@class=&quot;h-[151px] w-[200x] rounded-lg overflow-hidden relative flex&quot;]/img[@class=&quot;h-full m-auto rounded imageBanner&quot;]</value>
-      <webElementGuid>6d1e1368-c9c4-4b65-a912-3140f0b65b3c</webElementGuid>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;relative flex flex-col h-screen-custom align-items-stretch&quot;]/main[@class=&quot;container flex-grow min-h-screen-custom mx-auto  desktop:mt-[5.9rem] mobile:mt-14&quot;]/div[@class=&quot;container relative mx-auto&quot;]/div[@class=&quot;gap-4 desktop:grid desktop:grid-cols-12&quot;]/div[@class=&quot;flex flex-col col-span-3 col-start-10&quot;]/div[@class=&quot;flex flex-col mb-2 desktop:hidden&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;mobile:px-1 flex desktop:pt-4 gap-y-6 border-t border-gray-300 mobile:flex-row desktop:flex-wrap bg-[#f2f4fa] mobile:overflow-x-scroll mobile:overflow-y-hidden mobile:hidescrollbar mobile:scroll-display-desktop mobile:scroll-display-off&quot;]/article[@class=&quot;w-[260px] h-[320px] mobile:m-2 m-auto&quot;]/a[1]/div[@class=&quot;flex flex-col h-full&quot;]/div[@class=&quot;h-[195px] w-[260px] rounded-lg overflow-hidden relative flex&quot;]/img[@class=&quot;h-full m-auto rounded imageBanner&quot;]</value>
+      <webElementGuid>8188b27d-2ffe-4c5f-a497-26eb7c2f2810</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='FavoritesFeed']/section/div[4]/div[2]/div[2]/article/a/div/div/img</value>
-      <webElementGuid>659c4b61-0067-47cc-b0a7-1082f7127324</webElementGuid>
+      <value>//div[@id='__layout']/div/main/div/div[3]/div/div[3]/div/div[2]/article[2]/a/div/div/img</value>
+      <webElementGuid>028ece0e-c0a3-4818-9c5b-f492b5ba9726</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[@alt='https://timnews.com.br/system/images/photos/15562810/original/open-uri20230519-18-2qfmd6?1684508195']</value>
-      <webElementGuid>c52def6a-e899-4827-9983-fdc3d29a063b</webElementGuid>
+      <value>//img[@alt='https://timnews.com.br/system/images/photos/15562844/original/open-uri20230519-19-kculj6?1684509124']</value>
+      <webElementGuid>c2f3692d-9a36-4da3-af02-fb1f98a2dc2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/article/a/div/div/img</value>
-      <webElementGuid>7a94b7bf-9a77-4eee-ac01-0409049263de</webElementGuid>
+      <value>//article[2]/a/div/div/img</value>
+      <webElementGuid>ef329935-b2b7-44d8-ae20-3255a54faf8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = 'https://timnews.com.br/system/images/photos/15562810/original/open-uri20230519-18-2qfmd6?1684508195' and @alt = 'https://timnews.com.br/system/images/photos/15562810/original/open-uri20230519-18-2qfmd6?1684508195']</value>
-      <webElementGuid>3e8d7ba4-c859-4766-abed-85598eff6b60</webElementGuid>
+      <value>//img[@src = 'https://timnews.com.br/system/images/photos/15562844/original/open-uri20230519-19-kculj6?1684509124' and @alt = 'https://timnews.com.br/system/images/photos/15562844/original/open-uri20230519-19-kculj6?1684509124']</value>
+      <webElementGuid>3d2a899e-64c0-4455-acd1-83a80beabbf7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

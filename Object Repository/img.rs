@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>df2dbdb2-8fd9-467b-a474-3ce5106554df</webElementGuid>
+      <webElementGuid>33556993-cdfd-48f8-abfd-fad9f659c2c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://timnews.com.br/system/site_template_brands/large_logos/15/original/timnews.svg?1637269988</value>
-      <webElementGuid>97931614-4f27-4eeb-be8a-9c4935a56632</webElementGuid>
+      <webElementGuid>6329cb88-8a9d-4239-96db-53bff9e0ac1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>width</name>
       <type>Main</type>
       <value>109</value>
-      <webElementGuid>2d677f03-9d86-45e6-82a0-8297c13b83c9</webElementGuid>
+      <webElementGuid>f0573eef-4367-4f85-a930-e7b0e998dcee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>height</name>
       <type>Main</type>
       <value>35</value>
-      <webElementGuid>fe6aff65-e233-4d34-b562-920a6466aaa6</webElementGuid>
+      <webElementGuid>8860619c-4c1a-4bae-99fc-c540bc7a0abb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>TIM News</value>
-      <webElementGuid>1c98eed5-a40f-44b9-b077-69c4dabca59a</webElementGuid>
+      <webElementGuid>b2a5c7d0-925f-4fc9-81fb-15d99311b4dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;SiteHeader&quot;)/div[@class=&quot;grid w-full grid-cols-3 gap-0 desktop:hidden&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;desktop:pl-[9px] flex h-14 mobile:m-auto mobile:scale-95&quot;]/a[@class=&quot;nuxt-link-active m-auto no-underline&quot;]/img[1]</value>
-      <webElementGuid>fdf58887-2e1d-4646-992c-b0290860167b</webElementGuid>
+      <webElementGuid>375850f6-0aa7-45cf-8826-507cea2ae62b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='SiteHeader']/div/div[2]/div/a/img</value>
-      <webElementGuid>a2ad36bb-084a-4a5c-8f52-dcef3754bbad</webElementGuid>
+      <webElementGuid>1be409d4-0fc6-4b40-8c0e-2e6616f96119</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='TIM News']</value>
-      <webElementGuid>2533ad34-8bbc-46e4-8ab5-d905e05dd0d3</webElementGuid>
+      <webElementGuid>0db3e483-268b-4664-915d-e043bbce734e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>7a4763a9-6fcc-45b2-9073-205a8b254049</webElementGuid>
+      <webElementGuid>d1a79e53-bd79-411b-85fa-b1b44e96ab54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://timnews.com.br/system/site_template_brands/large_logos/15/original/timnews.svg?1637269988' and @alt = 'TIM News']</value>
-      <webElementGuid>4debf886-3229-49bf-8973-870d78a5b2df</webElementGuid>
+      <webElementGuid>9e040d0a-c900-4a4d-b0ef-ac4b0d495a2c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
