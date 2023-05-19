@@ -21,15 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://usahockeytv.com/')
 
-WebUI.click(findTestObject('Object Repository/usahockeytv/a_Upcoming'))
-
-WebUI.click(findTestObject('Object Repository/usahockeytv/a_Passes'))
-
-WebUI.click(findTestObject('Object Repository/usahockeytv/a_Clips'))
-
-WebUI.click(findTestObject('Object Repository/usahockeytv/a_Support'))
-
-WebUI.click(findTestObject('Object Repository/usahockeytv/a_Register'))
-
-WebUI.click(findTestObject('Object Repository/usahockeytv/a_Login'))
+WebUI.click(findTestObject('Object Repository/usahockeytv/a_Buy'))
 
